@@ -1,8 +1,8 @@
 /********************************************
  *
- *  Name: Henry Sazo
- *  Email: hsazo@usc.edu
- *  Section: Friday 11 am
+ *  Name:
+ *  Email:
+ *  Section:
  *  Assignment: Project: Thermometer
  *
  ********************************************/
