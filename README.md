@@ -1,6 +1,6 @@
 # Arduino Project: Thermometer
 
-This repository contains the code and documentation for an Arduino project I developed during my university studies. It showcases my understanding of microcontrollers, electronic components, and programming in C/C++.
+This repository contains the code and documentation for an Arduino project I developed during my university studies. It showcases my understanding of microcontrollers, electronic components, and programming in C.
 
 ## Project Overview
 
